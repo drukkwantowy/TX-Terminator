@@ -1,1 +1,2 @@
 # TX-Terminator
+Robot bojowy.
